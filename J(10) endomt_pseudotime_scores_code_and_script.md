@@ -1,6 +1,6 @@
 # EndoMT 가상 시간 기반 점수 변화 시각화 발표 자료
 
-## PPT에 게시할 코드
+## 코드
 
 ```r
 library(ggplot2)
