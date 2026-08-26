@@ -1,8 +1,5 @@
-# X-Medi._JW
+# Physician-Scientist Training Laboratory
 
-**From Theory to Implementation: Technical Development and Scientific Communication**
-
-<br>
 
 Conducted at the Medical Scientist Training Center Lab.
 
