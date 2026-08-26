@@ -1,6 +1,6 @@
 # TGFB 표적 유전자 UMAP 시각화 발표 자료
 
-## PPT에 게시할 코드
+## 코드
 
 ```r
 library(ggplot2)
