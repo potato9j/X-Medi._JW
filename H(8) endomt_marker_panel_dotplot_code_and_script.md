@@ -1,6 +1,6 @@
 # EndoMT 마커 패널 DotPlot 발표 자료
 
-## PPT에 게시할 코드
+## 코드
 
 ```r
 library(Seurat)
